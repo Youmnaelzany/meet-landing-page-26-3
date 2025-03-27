@@ -13,28 +13,28 @@ export default function SmarterMeetings() {
           alt="woman in videocall"
           width={151}
           height={238}
-          className="rounded-md"
+          className="rounded-md lg:h-[268px] lg:w-[268px]"
         />
         <Image
           src={"/assets/desktop/image-women-videochatting.jpg"}
           alt="woman in videochatting"
           width={151}
           height={238}
-          className="rounded-md"
+          className="rounded-md lg:h-[268px] lg:w-[268px]"
         />
         <Image
           src={"/assets/desktop/image-men-in-meeting.jpg"}
           alt="men in meeting"
           width={151}
           height={238}
-          className="rounded-md"
+          className="rounded-md lg:h-[268px] lg:w-[268px]"
         />
         <Image
           src={"/assets/desktop/image-man-texting.jpg"}
           alt="man texting"
           width={151}
           height={238}
-          className="rounded-md"
+          className="rounded-md lg:h-[268px] lg:w-[268px]"
         />
       </div>
       {/* Text */}
