@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function SmarterMeetings() {
   return (
-    <section className="mt-36 mb-16 flex flex-col items-center justify-center gap-14 px-4 sm:px-6 md:mb-40 lg:mb-[12.31rem] lg:px-8">
+    <section className="mt-36 mb-48 flex flex-col items-center justify-center gap-14 px-4 sm:px-6 md:mt-40 lg:mt-[12.31rem] lg:px-8">
       <div className="relative flex size-14 items-center justify-center rounded-full border border-[#87879D]/25 text-base leading-[1.625rem] font-black text-[#87879D] before:absolute before:bottom-14 before:mx-auto before:h-[5.25rem] before:w-[0.0625rem] before:bg-[#87879D]/25">
         01
       </div>
@@ -47,7 +47,7 @@ export default function SmarterMeetings() {
             Smarter meetings, all in one place
           </h3>
         </div>
-        <p className="w-[20.4375rem] text-base leading-[1.625rem] font-medium text-[#87879D] md:w-[35.8125rem] lg:w-[33.75rem]">
+        <p className="w-[20.4375rem] text-base leading-[1.625rem] font-medium text-[#87879D] md:w-[36.8125rem] lg:w-[31.75rem]">
           Send messages, share files, show your screen, and record your meetings
           — all in one workspace. Control who can join with invite-only team
           access, data encryption, and data export.
